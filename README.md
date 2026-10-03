@@ -2,7 +2,6 @@
 
 A Streamlit application that classifies user-entered text and image captions using a trained LSTM model. Image captions are generated with BLIP-1, and every successful submission is recorded in a SQLite database with its date, time, and predicted labels.
 
-This project was developed as part of an NLP internship assignment.
 
 ## Features
 
