@@ -1,0 +1,7 @@
+torch
+pandas
+nltk
+numpy
+streamlit==1.64.0
+transformers
+Pillow
